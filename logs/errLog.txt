@@ -1,0 +1,6 @@
+20230617	16:27:30	6066c426-4238-47ad-9914-08c43a5d5336	ReferenceError: cookies is not defined
+20230618	08:39:30	32c0a0d1-9307-4066-971c-075f7e7b0451	TypeError: Cannot read properties of undefined (reading 'split')
+20230618	08:41:14	d40706da-6d60-4027-ab15-f356b9ddb567	ReferenceError: token is not defined
+20230618	13:07:00	54a0513c-5b41-4936-869e-3d3af9f6194f	TypeError: authHeader?.startwith is not a function
+20230618	13:13:23	9bd56e32-c806-46fc-b817-304bd0b7b784	TypeError: authHeader?.startwith is not a function
+20230618	13:13:58	15268e76-43c0-4a5e-978f-86e73a33c53e	TypeError: authHeader?.startWith is not a function
